@@ -5,7 +5,9 @@ For my final project, I want to create a game. I have some background knowledge 
 
 # Required IDEs
 [GitHub](https://github.com/AtomicGameEngine/AtomicGameEngine)
-This IDE seems to provide a sufficient GameEngine that allows for me to create a game with a lot less trouble than doing so from scratch. I am really intrigued in testing 3D graphics and this IDE allows for me to do such. 
+This IDE seems to provide a sufficient GameEngine that allows for me to create a game with a lot less trouble than doing so from scratch. I am really intrigued in testing 2D graphics and this IDE allows for me to do such. 
+[GitHub](https://github.com/erincatto/box2d)
+This IDE seems to be a 2D physics engine that I can utilize in my game.
 
 # Deadlines
 1. Week 1: Have a full planning for the game ready to start coding
